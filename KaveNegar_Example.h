@@ -14,7 +14,7 @@ void KaveNegarExample()
     
     Notofication::KaveNegar KaveNegar(KaveNegarSetting);
 
-    string number = "09126417351";
+    string number = "09120000000";
     string token = "4242";
     string template_name = "BarghetoOTP";
     string error;
