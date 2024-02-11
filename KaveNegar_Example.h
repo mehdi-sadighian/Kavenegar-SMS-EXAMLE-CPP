@@ -10,7 +10,7 @@ void KaveNegarExample()
     KaveNegarSetting.Api_Base_Url = "https://api.kavenegar.com/v1/";
     KaveNegarSetting.SendSmsRoute = "/sms/send.json";
     KaveNegarSetting.SendOtpSmsRoute = "/verify/lookup.json";
-    KaveNegarSetting.API_KEY = "644751304D5155772B626847312B637A4862343438472B766C6762456841316C7A7A656F6B7757432B61633D";
+    KaveNegarSetting.API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
     
     Notofication::KaveNegar KaveNegar(KaveNegarSetting);
 
