@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Libs/SMS_Sender/SMS_Sender.h"
+#include "SMS_Sender/SMS_Sender.h"
 
 void KaveNegarExample()
 {
