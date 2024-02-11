@@ -2,13 +2,13 @@
 #include <iostream>
 #include <unistd.h>
 
-#include "KavehNegar_Example.h"
+#include "KaveNegar_Example.h"
 
 using namespace std;
 
 int main()
 {
-    KavehNegarExample();
+    KaveNegarExample();
 
     sleep(100);
 }
