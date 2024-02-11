@@ -5,3 +5,4 @@ Kavenegar Web Service Sms Sending Example with Object Oriented C++
 
 
 
+linked libraries : -lcurl
