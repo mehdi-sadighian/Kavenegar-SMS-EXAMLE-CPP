@@ -16,7 +16,7 @@ void KaveNegarExample()
 
     string number = "09120000000";
     string token = "4242";
-    string template_name = "BarghetoOTP";
+    string template_name = "TestOTP";
     string error;
 
     if (!KaveNegar.SendOTPSms(number, token, template_name, error))
