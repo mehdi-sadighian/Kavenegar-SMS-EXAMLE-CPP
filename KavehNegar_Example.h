@@ -2,7 +2,7 @@
 
 #include "Libs/SMS_Sender/SMS_Sender.h"
 
-void KavehNegarExample()
+void KaveNegarExample()
 {
     Notofication::KaveNegarSetting KaveNegarSetting;
 
